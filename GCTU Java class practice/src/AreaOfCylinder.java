@@ -1,3 +1,6 @@
+//Question 2
+//Code for calculating for the Discount of a product price given
+
 import java.util.Scanner;
 
 public class AreaOfCylinder {
