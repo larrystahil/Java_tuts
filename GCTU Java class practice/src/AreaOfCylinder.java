@@ -1,5 +1,5 @@
 //Question 4
-//Code for calculating for the Discount of a product price given
+//Code for calculating for the Area and Volume of a cylinder
 
 import java.util.Scanner;
 
