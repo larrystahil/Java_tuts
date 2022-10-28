@@ -1,4 +1,4 @@
-//Question 2
+//Question 4
 //Code for calculating for the Discount of a product price given
 
 import java.util.Scanner;
