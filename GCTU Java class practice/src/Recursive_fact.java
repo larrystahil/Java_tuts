@@ -1,8 +1,5 @@
 //Question 2
 //Code for calculating for the factorial using recursive function
-
-
-
 import java.util.Scanner;
 
 public class Recursive_fact {
