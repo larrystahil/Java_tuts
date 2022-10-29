@@ -1,3 +1,7 @@
+//Question 4
+//Code for calculating for the Discounted price for
+
+
 import java.util.Scanner;
 
 public class Discount_app {
