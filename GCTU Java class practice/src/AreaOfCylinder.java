@@ -1,6 +1,5 @@
 //Question 3
 //Code for calculating for the Area and Volume of a cylinder
-
 import java.util.Scanner;
 
 public class AreaOfCylinder {
@@ -12,7 +11,7 @@ public class AreaOfCylinder {
 
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
-        System.out.print("*******************************************\n Area and Volume Of A Cylinder Application\n*******************************************\n\nKindly Enter The Radius Of Your Cylinder: ");
+        System.out.print("*******************************************\n Area and Volume Of A Cylinder Application\n*******************************************\n\nKindly Enter The Radius Of Your Cylinder (cm): ");
         double useRadius = input.nextDouble();
         System.out.print("Enter Your length To Calculate The Volume in centimeter(cm): ");
         double userLenghth = input.nextDouble();
