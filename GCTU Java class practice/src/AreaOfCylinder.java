@@ -17,6 +17,6 @@ public class AreaOfCylinder {
         double userLenghth = input.nextDouble();
         double result1 = area(useRadius);
         double volume = result1 * userLenghth;
-        System.out.print("The Area Of Your Cylinder Is: " + result1 + "cm And The Volume is: " + volume + "cm");
+        System.out.print("The Area Of Your Cylinder Is: " + result1 + "cm \nThe Volume is: " + volume + "cm");
     }
 }
